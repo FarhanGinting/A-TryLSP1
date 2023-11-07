@@ -10,11 +10,11 @@
 #include <string.h>
 
 // Data login untuk walas dan siswa
-const char walas_username[] = "walas";
-const char walas_password[] = "12345";
+const char walas_username[] = "Walas88";
+const char walas_password[] = "alitoto66";
 
-const char siswa1_username[] = "siswa";
-const char siswa1_password[] = "pass";
+const char siswa1_username[] = "Siswa99";
+const char siswa1_password[] = "KantorBola66";
 
 // Fungsi untuk memeriksa login
 int checkLogin(const char* username, const char* password) {
@@ -53,6 +53,8 @@ int main() {
     char no;
 
     if (role == 1) {
+    	while(1){
+		
         // Tindakan yang sesuai untuk Walas
         printf("\n------------------------------------------------\n");
         printf("=========== Selamat datang, Walas! ==============\n");
@@ -179,6 +181,7 @@ int main() {
             default:
                 printf("Menu tidak valid. Silakan pilih menu yang sesuai.\n");
         }
+    }
     } else if (role == 2) {
     int dataSiswaDiisi = 0;
     
