@@ -5,16 +5,16 @@ Program Login Multi-User (Walas dan Siswa) Yang masing memiliki hak akses dan fi
 
 Buatlah pemrograman C++ dengan ketentuan:
 
-  *User: Admin
+  *User: Admin(Walas)
   
-    - Login dengan username: walas dan password: 12345
+    - Login dengan username: Walas88 dan password: alitoto66
     - Menghitung rata-rata nilai untuk setiap siswa
     - Menampilkan data nilai siswa
     - Mengurutkan data nilai siswa berdasarkan nilai rata-rata dari tertinggi maupun dari terendah
 
   *User: Siswa
   
-    - Login dengan masing-masing username dan password
+    - Login dengan masing-masing username : Siswa99 dan password : KantorBola66
     - Menghitung dan menampilkan rata-rata nilai
     - Menghitung dan menampilkan nilai maximal 
     - Menghitung dan menampilkan nilai minimal
