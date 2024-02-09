@@ -1,4 +1,4 @@
-# A-TryLSP1
+# Sch-MenghitungNilaiSiswa
 Program Login Multi-User (Walas dan Siswa) Yang masing memiliki hak akses dan fitunya 
 
 #Pembahasan Lengkap / Soal
